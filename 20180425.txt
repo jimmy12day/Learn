@@ -1,0 +1,10 @@
+{
+ JSON: "JavaScript Object Notation is a lightweight data-interchange format",
+ XML: "Extensible Markup Language is extensible with no predefined tags which is designed  to carry data and self-descriptive",
+ PASS:"The basic Pass command contains a list of render state setup commands",
+ Culling :" is an optimization that does not render polygons facing away from viewer",
+ BackfaceCulling:"you will not see the face away from you and it is one type of the culling",
+ CULLBACK:"Don¡¯t render polygons facing away from the viewer (default)",
+ CULLFRONT: Don¡¯t render polygons facing towards the viewer. Used for turning objects inside-out,
+ 
+}
