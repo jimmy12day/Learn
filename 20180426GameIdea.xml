@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes" ?>
+<GameIdea originial="yes">
+<Main>
+ <title> A player is shooting a realistic water bottle by foot(Could also be hand) </title>
+ <difficulty> Making a realistic water bottle with half fill of water </difficulty>
+ <solution> Cloth behaviour animation for the water and placed inside a empty bottle</solution>
+ <backupSolution>Using Particle System to simulate the water particles</backupSolution>
+ <engine>Unity2017.3</engine>
+</Main>
+</GameIdea>

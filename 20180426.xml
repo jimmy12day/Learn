@@ -1,0 +1,8 @@
+{
+ MultiPass: "One pass per object per light",
+ SinglePass: "One pass per object",
+ Deferred: "Render Surface properties for Gbuffer and perform screen space lighting",
+ SRP:"Scriptable Render Pipeline is a way of configuring and performing rendering in unity that is collected from c# scripit",
+ RenderPipleline:" an umbrella term for a number of tehcniques to get objects on the screen encompasses at a very high level like Culling and Rendering Objects and PostProcessing",
+
+}
