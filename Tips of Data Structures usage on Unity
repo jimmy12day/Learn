@@ -1,0 +1,6 @@
+DICTIONARY is preferred than HashTable because it is typesafe; Both are good for quick finding and remove
+LIST is preferred than ARRAYLIST
+HASHSET is useful for creating unique sets of lists and quick to locate
+ARRAY is fast, but array is fixed size, good example is allow shooting 50 bullets each load for a gun,array is fast
+
+
